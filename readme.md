@@ -6,18 +6,26 @@ The Alfresco Digital Business Platform is an open, modern, secure platform that 
 
 Here are a few demos that addresses a few use cases.
 
-1. Alfresco AI/ML Passport Demo
-   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/4b5571345285e1c7dfc37c80df596bf4c0ecf93e/assets/images/Accelerating%20Time%20to%20Value%20with%20Alfresco%20&%20Microsoft%20Hololens.jpg)](https://vimeo.com/340062990 "ABC")
+   ### Alfresco AI/ML Passport Demo
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Accelerating%20Time%20to%20Value%20with%20Alfresco%20%26%20Microsoft%20Hololens.jpg)](https://vimeo.com/340062990 "ABC")
 
-2. Alfresco & Amazon Textract
-   [![Little red ridning hood](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20%26%20Amazon%20Textract.jpg)](https://vimeo.com/303599816 "Little red riding hood - Click to Watch!")
+   ### Alfresco & Amazon Textract
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20%26%20Amazon%20Textract.jpg)](https://vimeo.com/303599816 "ABC")
 
-3. Alfresco Governance Services and Simflofy MIP Overview
-4. Alfresco Twitter Integration
-5. Accelerating Time to Value with Alfresco & Microsoft Hololens
-6. Employee Separation Demo
-7. Alfresco and AWS Rekognition
-8. Alfresco and Alexa demo to automate vehicle maintenance process
+   ### Alfresco Governance Services and Simflofy MIP Overview
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20Governance%20Services%20and%20Simflofy%20MIP%20Overview.jpg)](https://vimeo.com/270476647 "ABC")
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+   ### Alfresco Twitter Integration
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20Twitter%20Integration.jpg)](https://vimeo.com/267817537 "ABC")
 
+   ### Accelerating Time to Value with Alfresco & Microsoft Hololens
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Accelerating%20Time%20to%20Value%20with%20Alfresco%20%26%20Microsoft%20Hololens.jpg)](https://vimeo.com/267633899 "ABC")
+
+   ### Employee Separation Demo
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Employee%20Separation%20Demo.jpg)](https://vimeo.com/265673433 "ABC")
+
+   ### Alfresco and AWS Rekognition
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20and%20AWS%20Rekognition.jpg)](https://vimeo.com/265370254 "ABC")
+
+   ### Alfresco and Alexa demo to automate vehicle maintenance process
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20and%20Alexa%20demo%20to%20automate%20vehicle%20maintenance%20process.jpg)](https://vimeo.com/254684532 "ABC")
