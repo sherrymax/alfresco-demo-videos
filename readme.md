@@ -7,10 +7,10 @@ The Alfresco Digital Business Platform is an open, modern, secure platform that 
 Here are a few demos that addresses a few use cases.
 
 1. Alfresco AI/ML Passport Demo
-   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/4b5571345285e1c7dfc37c80df596bf4c0ecf93e/assets/images/Accelerating%20Time%20to%20Value%20with%20Alfresco%20&%20Microsoft%20Hololens.jpg)](https://vimeo.com/3514904 "ABC")
+   [![](https://github.com/sherrymax/alfresco-demo-videos/blob/4b5571345285e1c7dfc37c80df596bf4c0ecf93e/assets/images/Accelerating%20Time%20to%20Value%20with%20Alfresco%20&%20Microsoft%20Hololens.jpg)](https://vimeo.com/340062990 "ABC")
 
 2. Alfresco & Amazon Textract
-   [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+   [![Little red ridning hood](https://github.com/sherrymax/alfresco-demo-videos/blob/main/assets/images/Alfresco%20%26%20Amazon%20Textract.jpg)](https://vimeo.com/303599816 "Little red riding hood - Click to Watch!")
 
 3. Alfresco Governance Services and Simflofy MIP Overview
 4. Alfresco Twitter Integration
